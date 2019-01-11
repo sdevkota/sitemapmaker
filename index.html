@@ -9,11 +9,17 @@
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
     <title>Url Extracter</title>
+    <style>
+        ul{
+            list-style-type: none;
+        }
+    
+    </style>
 </head>
 <body>
-<ol id="urlList">
+<ul id="urlList">
 
-</ol>
+</ul>
 <script>
 $(document).ready(function(){
     $.get("sitemap.json", function(data, status){
