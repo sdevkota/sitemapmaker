@@ -1,1 +1,1 @@
-Replace sitemap.json file in this repo with the new sitemap JSON file to see a list of url.
+Replace sitemap.xml or sitemap.json file in this repo with the new sitemap JSON file to see a list of url.
