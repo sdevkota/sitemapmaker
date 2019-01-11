@@ -1,0 +1,2509 @@
+{
+	"urlset": {
+		"url": [
+			{
+				"loc": "https://about.bgov.com/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "1.00"
+			},
+			{
+				"loc": "https://about.bgov.com/schedule-a-demo/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/congressional-staffers/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/federal-agencies/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/government-affairs/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/government-contracting/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/news-alerts/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/insight-and-analysis/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/transcripts/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/mobile/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/congressional-directories/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/legislation-tracking/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/regulation-tracker/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/lobbying-benchmarking-business-development/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/megaphone/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/market-sizing-competitive-analysis/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/opportunity-search/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/pipeline-manager/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/resources/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/technocrat/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/bgov200/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/events/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/about/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/suspending-the-rules/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/grassroots-leadership-lessons-founders/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/u-s-government-pursuit-emerging-technologies-may-attract-non-traditional-companies/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/what-the-change-in-administration/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/schedule-a-demo/?bbgsum=DG-WS-BGOV-home",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/terms-of-service/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://about.bgov.com/schedule-megaphone-demo/?bbgsum=DG-WS-BGOV-megaphone",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/fine-print-lets-drone-makers-swallow-sensitive-data-faa-dhs/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/analyst-insights/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/bloomberg-exclusives/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/first-word/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/inside-bgov/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/voices/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/bgov200/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/budget-finance-taxes/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/career/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/congress/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/contracting/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/defense/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/energy/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/issues-industries/health/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/infrastructure-transportation/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/lobbying/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/management-productivity/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/politics/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/tech-cybersecurity/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/record-number-women-take-staff-bosses/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/four-legged-tsa-gov-shutdown/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/issues-industries/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/the-white-house/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/infrastructure-transportation/transportation/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/religious-colleges-praise-mission/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/education/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/congos-president-elect-lobbying/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/pentagon-suspends-largest-food-supplier-afghanistan-iraq/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/air-force-taps-gsa/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/tech-cybersecurity/innovation/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/border-democrats-walk-tightrope/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/budget-finance-taxes/budget/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/issues-industries/immigration/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/resources/brochure/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/resources/ebook/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/resources/infographic/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/resources/white-paper/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/resources/congress/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/resources/contracting/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/resources/how-washington-works/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/resources/lobbying/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/government-shutdown-basics-contractors/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/army-market-budget-opportunities/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/fy19-top-20-contracting-opportunities/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/air-force-budget-priorities/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/fall18-hillwatch/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/resources/?qpt_paged=2",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-no-end-in-sight/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/top-technology-headlines-to-kick-off-2019/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/all-eyes-on-e-commerce/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-score-big-go-home/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-december-7-2018-al-stay/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-december-3-2018-cloud-beyond/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-november-27-2018-zuck-hits-fan/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-november-19-2018-power-people/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-november-5-2018-moving-hybrid-cloud/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-october-29-2018-suspicious-activity-detected/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/technocrat/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/bgov200-replay/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/bgov200/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/bgov200/?filter=up",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/bgov200/?filter=down",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/bgov200/?filter=new",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/bgov200/?filter=domestic",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/bgov200/?filter=foreign",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/bgov200-2017/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/event/accelerate-application-development-delivery-dod-agencies/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/series/cybersecurity/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/series/data-innovation/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/series/digital-trust/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/series/insite/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/series/innovation-nation/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/series/nextedge/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/replays/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/event/2019-leg-look-ahead/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/event/blockchain-revolution-evaluating-role-public-private-partnerships/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/leadership-careers/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/author/bloomberg-government/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/student-loan-rules-delayed-official-says/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/thought-leadership/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/author/amy-showalter/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/founding-fathers/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/author/umer-chaudhry/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/author/marc-van-allen/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/the-next-four-years/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/navigating-new-washington/?utm_source=blog%20&utm_medium=website&utm_campaign=201702SalarySurvey&utm_content=&bbgsum=SG-WS-BGOV-0217-9705",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/author/michaela-ross/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/air-force-head-used-ex-house-perk-space-corps-fight/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/five-takeaways-jedi-decision-oracle/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/ssa-seeks-small-business-support-aging-boomers/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/tech-cybersecurity/it/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/uncategorized/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/cyber-skills-gap-compounds-pentagons-weapons-security-woes/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/tech-cybersecurity/cybersecurity/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/ocasio-cortez-winners-watch-bgov-election-analysis/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/the-next-four-years/congressionalraces/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/opportunities-agency-blockchain/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/tech-cybersecurity/data-innovation-events/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/cms-soliciting-25-billion-quality-improvement-contract/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/navy-budget-briefing/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/event/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/fbi-cloud-contract/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/warren-warning-corporate-capture-showcases-defense-strength/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/analyst-insights/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/colleges-find-access-federal-aid-easier-rule/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/court-ruling-bipartisan-preserve-health-insurance/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/2018-post-election-briefing/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/compromise-aviation-legislative-language-possible-friday/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/capuano-tested-pressley-massachusetts-primary/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/aviation-compromise-stopgap-funding-thune/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/senator-peters-talks-self-driving-cars/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/bloomberg-exclusives/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/centrist-democrats-demand-change-pelosi-anti-corruption-bill/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/gop-may-vote-trump-wall-funding-bid-rebut-pelosi-aide/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/f-35-combat-testing-phase-begins-15-month-delay-pentagon/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/outgoing-michigan-governor-snyder-rules-senate-run-2020/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/pentagon-fails-first-ever-audit-pat-shanahan-says/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/trump-nixes-locality-schedule-pay-hikes-civilian-workers/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/north-korea-missile-freeze-halted-icbm-selva/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/defense-research-chief-sees-hypersonic-defenses-weapons-soon/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/f-35-delivery-pause-well-way-resolution-lord-says/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/first-word/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/bgov-focused-opps-can-fill-pipeline-strategic-deals/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/inside-bgov/whats-new/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/new-calendar-alerts-bgov/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/new-bgov-foia-requests/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/new-tool-offers-smart-way-search-analyze-track-federal-legislation/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/fiscal-issues-dominate-lawmakers-fall-agenda-return-capitol-hill/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/bloomberg-government-releases-2017-bgov200/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/prepping-governments-q4-spending-spree-released-tool-help/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/building-industry-relationships-using-bgov/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/surveyed-capture-managers-three-questions-top-mind/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/information-overload-just-released-solution-help/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/inside-bgov/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/reading-research-lines-social-media-leading-activism-slacktivism/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/midterms-age-disruption/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/reading-research-lines-activities-influence-congress-congressional-staff-2017-congressional-communications-report-part-2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/baseball-government-go-hand-hand-let-explain/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/qa-dominic-delmolino-cto-accenture-federal-services/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/reading-research-lines-activities-influence-congress-congressional-staff-2017-congressional-communications-report/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/the-challenges-to-executing-your-2018-government-relations-strategy/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/waiting-on-watchdogs/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/voices/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/bgov200-2018/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/focus-market-expansion-jacobs-ranks-38th-bgov200/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/these-are-the-top-10-government-contractors/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/doing-more-with-less-an-industry-perspective-on-the-c4isr-market/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/fast-innovation-why-cubic-corp-ranks-132nd/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/replay-the-bgov200-federal-industry-leaders/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/bgov200-mantech/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/federal-contract-spending-trends-charts/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/pentagon-whiffed-spending-28-billion-ran-time/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/rulemaking-during-shutdown/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/pentagon-billion-new-boeing-fighters/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/house-armed-services-wall/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/campaign-cash-follows-gop-senator-may-drug-price-firewall/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/dot-competing-670-million-contract/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/jeb-bush-super-pac-fined/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/pentagon-spent-nearly-1-billion-audit-failed/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/budget-finance-taxes/finance/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/budget-finance-taxes/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/why-do-bad-things-happen-to-good-ideas/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/4-tactics-for-successful-grassroots-persuasion-backed-by-science/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/five-tips-for-authentic-leadership/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/voices/our-network/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/got-a-story-to-pitch-here-are-4-insider-tips-from-reporters-for-hill-communications-staffers/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/news/inside-bgov/our-team/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/these-are-the-highest-paying-jobs-in-america/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/the-legal-minefield-of-office-group-chat/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/workstyle/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/how-a-93-year-old-media-company-keeps-the-magic-alive/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/career/career-path/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/andy-katz-mayfield-90-of-success-is-execution/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/why-our-founders-would-have-loved-lobbyists/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/workstyle/how-washington-works/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/how-to-find-pre-rfp-opportunities-in-the-new-budget/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/career/business-development/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/career/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/walmart-or-doctor/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/lobbying-firm-two-former-chairmen/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/shanahan-industry-insider-cabinet-power/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/house-democrats-campaign-finance/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/legal/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/homeland-security-committee-2019-focus/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/asylum-incentives-2019-johnson-immigration/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/homeland-security-oversight-thompson/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/lobbyist-conviction-disclosure/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/congress/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/authoritarian-regimes-pay-millions-k-street-lobbyists/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/pentagon-agile-federal-clearance-backlog/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/gsa-commercial-e-commerce-plan/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/lawmakers-applaud-improved-fita/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/trumps-artificial-intelligence/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/faa-competes-scheduling-tech-contract/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/disa-seeks-network-upgrades/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/contracting/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/defense/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/bgov-live-event/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/battelle-energy-suit-ends/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/energy-veterans-money/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/veterans/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/self-driving-cars-cities-worry-parking/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/manchin-emerges-possible-pick-energy-department/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/next-keystone-may-need-ferc-approval-not-state/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/energy/first-word-energy/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/court-appears-skeptical-epas-biofuel-rationale/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/trumps-plan-make-u-s-energy-independent/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/trump-budget-plan-slice-epa-spending-nearly-third/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/quiet-start-trump-set-energy-excitement/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/energy/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/obamacare-signups-decline-democrats-trump/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/grated-american-cheese-bill/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/issues-industries/agriculture-issues-industries/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/surprise-medical-bills-lawmaker-deal/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/trump-team-back-drawing-board/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/key-democrats-medicare/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/republican-senators-fight-pandemic-bills/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/issues-industries/health/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/coast-guard-polar-icebreaker-mired-fight-mexico-wall/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/driverless-cars-stall-congress/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/sen-warren-oppose-trade-deal/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/infrastructure-transportation/trade/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/trade-plan-food-bank/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/mccarthy-intervenes-bus-company-targeted-spending-bill/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/deploy-self-driving-cars-congress/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/scooters-trigger-backlash-uber/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/self-driving-auto-test-funds/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/infrastructure-transportation/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/fda-restrictions-e-cigarettes/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/lobbyists-profit-trump-senates-shortened-summer-break/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/lucrative-saudi-lobbying-ties-fray-khashoggi/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/kavanaugh-fight-millions-lobbying/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/outside-group-midterm-ad-buys-top-10-million-april/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/podesta-veterans-quickly-rebound-k-street-firms-demise/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/lobbying/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/toward-facts-away-fake-lead-stakeholders-truth/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/management-productivity/communication/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/turn-government-relations-committee-strategic-asset/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/management-productivity/management/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/2016-year-giving-back-dc-community/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/management-productivity/culture/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/former-treasury-secretary-paulson-ready-change-course/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/management-productivity/leadership/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/disruption-wrong-strategy-associations/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/trump-daunting-change-management-challenge/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/2-ways-improve-business-development-strategy/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/three-problems-top-teams-fix/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/bloomberg-helping-kids-get-ahead-school/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/4-ways-maintain-entrepreneurial-spirit/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/management-productivity/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/2019-outlook-trumps-push-deregulate/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/colleges-online-push-possible-boon-private-firms-corrected/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/gatwick-style-drone-chaos/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/yemen-crisis-priority-chairman/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/senate-targets-lower-court-picks/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/politics/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/federal-contract-bigger/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/homegrown-anti-malware-tool-market/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/amazon-boost-washington-influence/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/new-congress-scrutiny-trump-it-agenda/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/tech-cybersecurity/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/author/nancy/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/issues-industries/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/crime-bill-writers-trade-house/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/iran-contra-justice-pick/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/lawmakers-two-week-stopgap/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/the-white-house/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/amazon-fedex-gain/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/senates-self-driving-car/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/solutions/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/compromise-bill-extend-federal-aviation-programs-2023/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/budget-finance-taxes/appropriations/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/self-driving-cars-wont-ride/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/local-transit-projects-hobbled-trump-mum-funds/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/tsa-precheck-stricter-policing-house-bill/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/infrastructure-transportation/transportation/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/author/emily-wilkins/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/consensus-likely-elude-negotiations-college-accrediting/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/online-push-colleges-gold-rush/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/policy-school-discipline/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/devoss-profit-college-policies/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/colleges-ask-education-department-reimburse-forgiven-loans/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/troubled-accreditor-acics/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/education/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/author/megan-wilson/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/author/chris-cornillie/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/e-scooter-ride-florence/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/automating-federal-future-replay/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/from-no-to-go-how-we-built-a-new-feature-for-contractors-in-48-hours/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/can-companies-make-public-services-more-efficient/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/tech-cybersecurity/innovation/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/author/paul-murphy/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/trump-space-force-pentagon-budget-caps/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/border-wall-census/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/veterans-health-program-price/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/1-percent-student-loan-forgiveness/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/lawmakers-wait-approach-florence-relief-funding/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/gop-split-border-wall-fight/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/budget-finance-taxes/budget/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/asylum-seeking-politics-candidates/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/sen-blunt-unsure-legality-migrant-children-detention-plan/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/wall-funding-waits-leaders-bipartisan-spending-bills/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/issues-industries/immigration/page/2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/page/3/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/government-affairs-brochure/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/government-contracting-brochure/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/president-trumps-fiscal-2018-budget-request/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/5-questions-about-tax-reform/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/federal-transition-six-drivers-digital-transformation/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/guide-federal-budget/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/bgov200-2016/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/2015-top-lobbying-firms/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/mac-book/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/top-lobbying-firms-q3-2015/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/defense-contract-spending-state-by-state-analysis/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/115th-congress-dates-need-know/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/omnibus-cheat-sheet/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/q4-opportunities/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/blockchain-government-pilot-programs/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/it-budget-opportunities/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/2018-mid-tier-market-report/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/9-questions-answers-guide-lame-duck/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/presidential-transitions-checklist/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/how-washington-works-congressional-careers-whitepaper/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/2016-infographic-calendar/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/mid-tier-challenge/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/trade-offs-defense-budget-president-trump/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/comes-seaport-e/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/bgov200-spending-categories/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/mid-tier-paradox-small-compete-large-survive/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/how-washington-works-a-guide-to-lobbying-careers/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/top-performing-lobbying-firms-2016/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/downloads/will-lobbyists-executives-navigate-presidential-transition/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/amazon-boost-washington-influence/?elqTrackId=b0b8f7ac91974671939fe3db6b8fb1c6",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/ibms-34b-red-hat-deal-means-federal/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/cloud-services-market-all-time-high/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/pentagon-hacking-cyber/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-october-15-2018-pentagons-cyber-insecurity-revealed/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-october-9-2018-data-privacy-please/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-october-1-2018-prime-way-procure/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-september-24-2018-shut-down/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-escaping-techs-valley-death/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-september-10-2018-spend-like-hot/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-september-3-2018-inside-gsas-new-government-wide-contract/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/cyberwar-midterms-boiling/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-security-struggle-real/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/technocrat-august-13-2018/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/technocrat/page/3/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/austin-texas-said-home-new-army-futures-command/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/series/bloomberg-intelligence/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/series/power-profile/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/series/the-next-four-years/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/breach-inside-new-realities-cybersecurity/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/building-big-data-economy-optimizing-government-operations-driving-citizen-engagement/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/building-the-big-data-economy-the-winning-formula-in-sports/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/building-the-big-data-economy-how-data-innovation-is-driving-performance-3/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/category/tech-cybersecurity/data/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/building-the-big-data-economy-how-data-innovation-is-driving-performance/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/the-digital-trust-securing-commerce-kickoff-reception/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/the-digital-trust-the-technology-of-trust-boston/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/in-digital-we-trust/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/pay-it-forward-the-future-of-secure-payments/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/insite-senator-ron-johnson/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/congressman-tom-price-budget-priorities/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/innovation-nation-intellectual-property-and-the-global-economy/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/nextedge-winning-business-in-health-it-3/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/improving-federal-mobility/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/rethinking-cyber-spending-in-the-wake-of-the-opm-hack/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/leaner-but-not-meaner-the-new-efficient-tsa/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/air-force-secretary-james-wants-more-readiness-upsizing/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/nextedge-maximizing-macs-live-event/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/shutdown-avoided-for-now/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/blog/will-the-senate-save-us-from-another-shutdown/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/race-to-the-finish/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/rethinking-federal-cyber-spending/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/year-2018-policy-roundup/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/build-your-pipeline-acquisition-forecasts/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/next-2018/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/races-watch-part-ii-wire/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/cybersecurity-market-outlook/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/army-budgets-briefing/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/races-watch-look-ahead-november-6/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/fy19-top-opportunities/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/insite-administrator-neomi-rao/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/air-force-budget-briefing/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/fintech2018/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/impact-category-management-small-businesses/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/automating-federal-future/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/race-finish-webinar/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/midterm-countdown-legislative-list/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/bgov200-2018-webinar/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/insite-senator-moran/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/it-budget-opportunities-briefing/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/ota-spending-rise/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/women-smart-cities/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/webinar-state-appropriations/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/big-mac-analysis-webinar/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/luncheon-author-emily-chang/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/bloomberg-next-infrastructure/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/investing-sustainable-energy-future/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/fy18-opportunities-small-businesses/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/navy-budget-briefing/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/state-ma-play-federal-market/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/bloomberg-next-tech/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/fy19-defense-budget/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/budget-breakdown-watch/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/rapid-response-budget-analysis-3/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/welcome-back-congress/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/federal-contractors-need-know-imminent-shutdown-extended-cr-full-year-funding-bonanza/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/fy18-appropriations-status-update/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/future-multifamily-housing-building-access-affordability/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/going-digital-the-global-trend-towards-electronic-payments/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/armybreakfast/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/perspectives-health-disparities-medicare-bundled-payments/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/doing-business-under-a-cr/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/future-innovation-waivers-states-can/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/expanding-opportunities-midsize-contractors/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/webinar-can-congress-accomplish-post-recess/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/bgov200-ranking-top-federal-contractors/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/opportunity-management-better-data-better-business/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/race-finish-3/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/contracting-opportunities-spending-rise/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/the-cost-of-health-care/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/faa-policy-preview-whats-ahead/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/performance-accountability-efficiency-outlook-federal-agency-program-management-acquisition/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/advancing-government-impact-artificial-intelligence/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/bloomberg-government-next-infrastructure/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/building-the-economy-of-the-future-central-europe-in-a-post-brexit-world/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/tracking-defense-budget/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/rapid-response-budget-analysis-2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/pioneering-sustainable-solutions/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/future-international-business-deals-position-long-term-growth/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/tax-plan-coming-watch/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/bloomberg-government-next-tech/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/trends-best-practices-federal-contract-management/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/border-adjusted-tax-proposal-implications-u-s-business/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/top-20-federal-opportunities-2h/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/sewp-ideas-innovation-breakfast/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/march-to-the-championship/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/rapid-response-budget-analysis/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/rapid-response-webinar-repealing-replacing-obamacare/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/this-is-it-insider-threat/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/managing-supply-chain-risk/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/tackling-budget-2017-resolutions-2018-submission/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/trade-offs-defense-budget-president-trump/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/insite-house-homeland-security-chairman-michael-mccaul/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/bills-regs-executive-orders-ready/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/lobbying-next-administration-opportunities-influence/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/top-20-federal-opportunities-army-department/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/enabling-federal-cybersecurity-advantage/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/aim-high-conversation-lt-gen-michelle-johnson/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/trump-victory-expected-changes-defense-spending/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/next-administration-secure-political-appointment/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/old-challenges-facing-new-congress-access-affordable-drugs/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/watch-lame-duck/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/top-20-federal-opportunities-2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/supreme-court-focus/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/artificial-intelligence-real-world-impact/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/future-medicare-whats-next-caring-aging-population/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/post-election-analysis-implications-national-security-defense/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/driverless-cars-intersection-tech-innovation-regulation/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/taking-digital-leap-building-mature-federal-digital-enterprise/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/new-directions-us-infrastructure-understanding-emerging-needs-priorities/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/flashcast-congressional-races-watch-2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/transfer-power-ensuring-smooth-presidential-transition/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/risks-opportunities-federal-supply-chain-management-2/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://about.bgov.com/event/this-is-it-cybersecurity/",
+				"lastmod": "2019-01-11T19:58:08+00:00",
+				"priority": "0.51"
+			}
+		],
+		"_xmlns": "http://www.sitemaps.org/schemas/sitemap/0.9",
+		"_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+		"_xsi:schemaLocation": "http://www.sitemaps.org/schemas/sitemap/0.9             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+	}
+}
