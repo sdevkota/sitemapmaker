@@ -9,7 +9,29 @@
         crossorigin="anonymous"></script>
     <title>Url Extracter</title>
     <style>
-        body {
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        header>span {
+            position: relative;
+            top: 15%;
+            left: 2%;
+        }
+
+        p,
+        h1,h3 {
+            margin-bottom: 2%;
+        }
+
+        header {
+            height: 50px;
+            background: green;
+            margin-bottom: 2%;
+        }
+
+        #body {
             margin: auto 30%;
         }
 
@@ -39,83 +61,91 @@
             margin: 20px 0;
         }
 
-      /*Tooltip*/
-      .tooltip {
-  position: relative;
-  display: inline-block;
-}
+        /*Tooltip*/
 
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 140px;
-  background-color: #555;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px;
-  position: relative;
-  z-index: 1;
-  bottom: 40px;
-  opacity: 0;
-}
+        .tooltip {
+            position: relative;
+            display: inline-block;
+        }
 
-.tooltip .tooltiptext::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #555 transparent transparent transparent;
-}
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            background-color: #555;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px;
+            position: relative;
+            z-index: 1;
+            bottom: 40px;
+            opacity: 0;
+        }
 
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-  opacity: 1;
-}
+        .tooltip .tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #555 transparent transparent transparent;
+        }
 
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
     </style>
 </head>
 
 <body>
-    <h1>DROP your xml file here(Please valid xml only)</h1>
-    <textarea name="xml" id="xml-data" cols="100" rows="20"></textarea>
-    <button id="btn-submit">Generate Urls</button>
+    <header>
+        <span id="header" style="color:white;font-size:20px;">Built by Sudeep Devkota</span>
+    </header>
+
+    <section id="body">
+        <h1>Extract all URLs from a sitemap.xml file</h1>
+        <h3>Copy and paste your xml here(Please valid xml only)</h3>
+        <p>To valid your xml file,
+            <a target="_blank" href="https://www.xmlvalidation.com/">Check this website.</a>
+        </p>
+        <textarea name="xml" id="xml-data" cols="100" rows="20"></textarea>
+        <button id="btn-submit">Generate URLS</button>
 
 
-    <div id="results" class="tooltip" style="display: none">
-        <button onmouseout="showTTP()">Copy Urls
-            <span class="tooltiptext" id="ttip">Copy to clipboard</span>
-        </button>
-        <br>
-        <textarea name="urllist" id="urlList" cols="100" rows="20"></textarea>
-    </div>
+        <div id="results" class="tooltip" style="display: none">
+            <button>Copy to clipboard
+                <span class="tooltiptext" id="ttip">Copy</span>
+            </button>
+            <br>
+            <textarea name="urllist" id="urlList" cols="100" rows="20"></textarea>
+        </div>
+    </section>
+
 
     <script>
-        function showTTP() {
-            var tooltip = document.getElementById("ttip");
-            tooltip.innerHTML = "Copy to clipboard";
-        }
+
         $(document).ready(function () {
             $('#btn-submit').on('click', function () {
                 var xmlDoc = $("#xml-data");
                 if (xmlDoc.val() != "") {
                     var parser = new DOMParser();
-                         xml = parser.parseFromString(xmlDoc.val(),"text/xml");
-                         if (xml != null) {
-                    var $url = $(xml).find('urlset');
-                    $("#results").show();
-                    $url.find("url").each(function () {
-                        $(this).find("loc").each(function () {
-                            $("#urlList").append($(this).text() + "&#13;&#10");
+                    xml = parser.parseFromString(xmlDoc.val(), "text/xml");
+                    if (xml != null) {
+                        var $url = $(xml).find('urlset');
+                        $("#results").show();
+                        $url.find("url").each(function () {
+                            $(this).find("loc").each(function () {
+                                $("#urlList").append($(this).text() + "&#13;&#10");
+                            });
                         });
-                    });
-                }
-                   
+
+                    }
+
                 }
                 else {
-                    alert("Please paste your xml file here");
+                    alert("Please paste your xml file first");
                 }
 
             });
