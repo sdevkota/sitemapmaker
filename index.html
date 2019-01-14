@@ -9,33 +9,126 @@
         crossorigin="anonymous"></script>
     <title>Url Extracter</title>
     <style>
+        body {
+            margin: auto 30%;
+        }
+
         ul {
             list-style-type: none;
+            background: #eee;
+            padding: 4%;
         }
+
+        button {
+            margin-top: 2%;
+            display: block;
+            padding: 8px 40px;
+            background: green;
+            border: green;
+            color: white;
+            font-size: 1em;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        #results button {
+            float: right;
+            background: gray;
+            border: gray;
+            color: white;
+            margin: 20px 0;
+        }
+
+      /*Tooltip*/
+      .tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 140px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: relative;
+  z-index: 1;
+  bottom: 40px;
+  opacity: 0;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
     </style>
 </head>
 
 <body>
-    <ul id="urlList">
+    <h1>DROP your xml file here(Please valid xml only)</h1>
+    <textarea name="xml" id="xml-data" cols="100" rows="20"></textarea>
+    <button id="btn-submit">Generate Urls</button>
 
-    </ul>
+
+    <div id="results" class="tooltip" style="display: none">
+        <button onmouseout="showTTP()">Copy Urls
+            <span class="tooltiptext" id="ttip">Copy to clipboard</span>
+        </button>
+        <br>
+        <textarea name="urllist" id="urlList" cols="100" rows="20"></textarea>
+    </div>
+
     <script>
+        function showTTP() {
+            var tooltip = document.getElementById("ttip");
+            tooltip.innerHTML = "Copy to clipboard";
+        }
         $(document).ready(function () {
-            $.get("sitemap.xml", function (xml, status) {
-                if (xml != null) {
+            $('#btn-submit').on('click', function () {
+                var xmlDoc = $("#xml-data");
+                if (xmlDoc.val() != "") {
+                    var parser = new DOMParser();
+                         xml = parser.parseFromString(xmlDoc.val(),"text/xml");
+                         if (xml != null) {
                     var $url = $(xml).find('urlset');
+                    $("#results").show();
                     $url.find("url").each(function () {
                         $(this).find("loc").each(function () {
-                            $("#urlList").append("<li>" + $(this).text() + "</li>");
+                            $("#urlList").append($(this).text() + "&#13;&#10");
                         });
                     });
-                } else {
+                }
+                   
+                }
+                else {
+                    alert("Please paste your xml file here");
+                }
 
-                    $.get("sitemap.json", function (data, status) {
-                        data.urlset.url.forEach(element => {
-                            $("#urlList").append("<li>" + element.loc + "</li>");
-                        });
-                    });
+            });
+            $('#results').on('click', 'button', function () {
+                var copyText = document.getElementById("urlList");
+                if (copyText.value != "") {
+                    copyText.select();
+                    document.execCommand("copy");
+                    var tooltip = document.getElementById("ttip");
+                    tooltip.innerHTML = "Copied to clipboard";
+                }
+                else {
+                    alert("Nothing to copy");
                 }
 
             });
