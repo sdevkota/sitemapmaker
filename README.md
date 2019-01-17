@@ -1,1 +1,1 @@
-Replace sitemap.xml or sitemap.json file in this repo with the new sitemap JSON file to see a list of url.
+Copy and paste your xml file to the text area and hit the generate url button.
