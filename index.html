@@ -314,7 +314,11 @@
                     //convert each url into array item
                     var urls = document.getElementById("urlList").value.split("\n");
                     var outputObject = [];
+
+                    //start the spinner
+                    $("#results #404-btn-submit").html('<img src="./ajax-loader.gif"/>');
                     $("#404CheckResults").show();
+
                     urls.forEach(function (item, index) {
                         var status = doCORSRequest({
                             method: "GET",
@@ -322,6 +326,8 @@
                         }, item);
 
                     });
+                   $("#results #404-btn-submit").text("Click here to Check 404 Errors");
+                    //end the spinner
                 } else {
                     alert("Cannot process on an empty text area. Please add urls");
                 }
