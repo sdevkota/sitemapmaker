@@ -7,74 +7,91 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="This site allows you to extract your urls from a sitemap.">
     <meta name="robots" content="index, follow" />
-    <meta name="keywords" content="sitemap, sitemap.xml, url extract, url from sitemap, url generator, url sitemap, urls, sitemap.xml file" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-        crossorigin="anonymous">
+    <meta name="keywords"
+        content="sitemap, sitemap.xml, url extract, url from sitemap, url generator, url sitemap, urls, sitemap.xml file" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
     <title>Extract urls from a sitemap.xml file</title>
     <style>
         * {
             margin: 0;
             padding: 0;
         }
-.jumbotron-main{
-width:100vw;
-height:30vh;
-color:white;
-background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
-background-size: 400% 400%;
--webkit-animation: Gradient 15s ease infinite;
--moz-animation: Gradient 15s ease infinite;
-animation: Gradient 15s ease infinite;
-}
 
-@-webkit-keyframes Gradient {
-0% {
-background-position: 0% 50%
-}
-50% {
-background-position: 100% 50%
-}
-100% {
-background-position: 0% 50%
-}
-}
+        .jumbotron-main {
+            width: 100vw;
+            height: 30vh;
+            color: white;
+            background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+            background-size: 400% 400%;
+            -webkit-animation: Gradient 15s ease infinite;
+            -moz-animation: Gradient 15s ease infinite;
+            animation: Gradient 15s ease infinite;
+        }
 
-@-moz-keyframes Gradient {
-0% {
-background-position: 0% 50%
-}
-50% {
-background-position: 100% 50%
-}
-100% {
-background-position: 0% 50%
-}
-}
+        @-webkit-keyframes Gradient {
+            0% {
+                background-position: 0% 50%
+            }
 
-@keyframes Gradient {
-0% {
-background-position: 0% 50%
-}
-50% {
-background-position: 100% 50%
-}
-100% {
-background-position: 0% 50%
-}
-}
+            50% {
+                background-position: 100% 50%
+            }
 
+            100% {
+                background-position: 0% 50%
+            }
+        }
+
+        @-moz-keyframes Gradient {
+            0% {
+                background-position: 0% 50%
+            }
+
+            50% {
+                background-position: 100% 50%
+            }
+
+            100% {
+                background-position: 0% 50%
+            }
+        }
+
+        @keyframes Gradient {
+            0% {
+                background-position: 0% 50%
+            }
+
+            50% {
+                background-position: 100% 50%
+            }
+
+            100% {
+                background-position: 0% 50%
+            }
+        }
+
+        .red {
+            color: red;
+        }
+
+        .green {
+            color: green;
+        }
 
         .customToolTip {
             position: relative;
             display: inline-block;
-width:100%;
+            width: 100%;
         }
 
         .customToolTip .customToolTiptext {
@@ -87,7 +104,7 @@ width:100%;
             position: relative;
             z-index: 1;
             bottom: 40px;
-          
+
         }
 
         .customToolTip .customToolTiptext::after {
@@ -105,9 +122,11 @@ width:100%;
             visibility: visible;
             opacity: 1;
         }
-.divider{
-    padding: 1% 0;
-}
+
+        .divider {
+            padding: 1% 0;
+        }
+
         /* input[type=text] {
             padding: 6px;
             width: 100%;
@@ -124,8 +143,10 @@ width:100%;
     <section id="body" class="container">
 
         <div class="form-group">
-            <label for="exampleInputEmail1"><strong>Full URL Address (Example: https://domain.com/sitemap.xml)</strong></label>
-            <input type="text" class="form-control" required name="url-input" id="url-input" placeholder="Enter your url here">
+            <label for="exampleInputEmail1"><strong>Full URL Address (Example:
+                    https://domain.com/sitemap.xml)</strong></label>
+            <input type="text" class="form-control" required name="url-input" id="url-input"
+                placeholder="Enter your url here">
         </div>
         <button class="btn btn-primary" id="load-url">Load XML from URL</button>
         <div class="divider"></div>
@@ -137,20 +158,40 @@ width:100%;
             <div class="form-group">
                 <textarea name="xml" class="form-control" id="xml-data" cols="100" rows="20"></textarea>
             </div>
-            <button class="btn btn-success" id="btn-submit">Click here to Generate URLS</button>
+            <button class="btn btn-success" id="btn-submit">Click here to Generate URLS from XML Or Skip to 404
+                Checker app</button>
         </div>
 
         <div id="results" class="customToolTip text-center  jumbotron" style="display: none">
             <button class="btn btn-secondary">Copy to clipboard
                 <span class="customToolTiptext" id="ttip">Copy</span>
             </button>
-            <div class="divider"></div>
+            <div class="divider">
+                <h3>Copy and paste your URL here(Please add https:// or http)</h3>
+                <p>
+                    (Hint: Only one url per line)
+                </p>
+            </div>
             <div class="form-group">
                 <textarea name="urllist" class="form-control" id="urlList" cols="100" rows="20"></textarea>
             </div>
+            <button class="btn btn-danger" id="404-btn-submit">Click here to Check 404 Errors</button>
+        </div>
+
+        <div id="404CheckResults" class="customToolTip text-center  jumbotron" style="display: none">
+            <div class="divider">
+
+            </div>
+            <div class="list-group" style="text-align:left;">
+            </div>
         </div>
     </section>
-
+    <script>
+        function jump(targetElementId) {
+            var top = document.getElementById(targetElementId).offsetTop;
+            window.scrollTo(0, top);
+        }
+    </script>
     <script>
         $(document).ready(function () {
             $('#load-url').on('click', function () {
@@ -193,15 +234,17 @@ width:100%;
                                 $("#urlList").append($(this).text() + "&#13;&#10");
                             });
                         });
+                        jump("results");
 
                     }
 
                 } else {
-                    alert("Please paste your xml file first");
+                    $("#results").show();
+                    jump("results");
                 }
 
             });
-            $('#results').on('click', 'button', function () {
+            $('#results').on('click', '.btn-secondary', function () {
                 var copyText = document.getElementById("urlList");
                 if (copyText.value != "") {
                     copyText.select();
@@ -213,6 +256,77 @@ width:100%;
                 }
 
             });
+        });
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            //Outout Object
+            var OutPutUrl = function (url, is404, isValid) {
+                this.url = url;
+                this.is404 = is404;
+                this.isValid = isValid;
+            };
+
+            //run it through a checker to see if they are valid
+            function validURL(str) {
+                var pattern = new RegExp('^(https?:\\/\\/)?' + // protocol
+                    '((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.)+[a-z]{2,}|' + // domain name
+                    '((\\d{1,3}\\.){3}\\d{1,3}))' + // OR ip (v4) address
+                    '(\\:\\d+)?(\\/[-a-z\\d%_.~+]*)*' + // port and path
+                    '(\\?[;&a-z\\d%_.~+=-]*)?' + // query string
+                    '(\\#[-a-z\\d_]*)?$', 'i'); // fragment locator
+                return !!pattern.test(str);
+            }
+
+            var cors_api_url = "https://cors-anywhere.herokuapp.com/";
+
+            function doCORSRequest(options, item) {
+                var x = new XMLHttpRequest();
+                x.open(options.method, cors_api_url + options.url);
+                x.onload = x.onerror = function () {
+                    if (x.status == "404") {
+                        var urlObject = new OutPutUrl(item, true, validURL(item));
+                        $("#404CheckResults .list-group").append("<li class='list-group-item red'>" +
+                            urlObject
+                            .url +
+                            "</li>");
+                    } else {
+                        var urlObject = new OutPutUrl(item, true, validURL(item));
+                        $("#404CheckResults .list-group").append("<li class='list-group-item green'>" +
+                            urlObject
+                            .url +
+                            "</li>");
+                    }
+                };
+                if (/^POST/i.test(options.method)) {
+                    x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                }
+                x.send();
+            }
+
+            //button click
+            $("#results").on("click", '#404-btn-submit', function () {
+                var urlDoc = $("#urlList");
+
+                if (urlDoc.val() != "") {
+                    $("#404CheckResults .list-group").empty();
+                    //convert each url into array item
+                    var urls = document.getElementById("urlList").value.split("\n");
+                    var outputObject = [];
+                    $("#404CheckResults").show();
+                    urls.forEach(function (item, index) {
+                        var status = doCORSRequest({
+                            method: "GET",
+                            url: item
+                        }, item);
+
+                    });
+                } else {
+                    alert("Cannot process on an empty text area. Please add urls");
+                }
+            });
+
         });
     </script>
 </body>
